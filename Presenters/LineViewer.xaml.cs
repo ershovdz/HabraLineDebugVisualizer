@@ -7,19 +7,22 @@
 
     public partial class LineViewer : UserControl
     {
-        private ViewModel viewModel;
-
+        private ViewModel viewModel = null;
+        
         public LineViewer()
         {
             InitializeComponent();
         }
 
-        public void Init( IWatchObjectsSource source )
+        public void Init(IWatchObjectsSource source)
         {
-            viewModel = new ViewModel(source);
-            this.DataContext = viewModel;
+            if (viewModel == null)
+            {
+                viewModel = new ViewModel(source);
+                this.DataContext = viewModel;
 
-            viewport.Children.Add( viewModel._lineModel );
+                viewport.Children.Add(viewModel._lineModel);
+            }
         }
 
         private void OnObjectVisible( object sender, RoutedEventArgs e )

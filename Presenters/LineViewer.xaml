@@ -21,9 +21,7 @@
                 <PerspectiveCamera Position="{Binding DefaultCameraPosition}" LookDirection="{Binding DefaultLookDirection}" UpDirection="0,0,1" FieldOfView="61" FarPlaneDistance="100000"  NearPlaneDistance="10"/>
                 </helix:HelixViewport3D.DefaultCamera>
                 <helix:DefaultLights/>
-                <helix:LinesVisual3D Content="{Binding _lineModel}"/>
                 <ModelVisual3D Content="{Binding _meshModel}"/>
-                <!--<helix:CubeVisual3D SideLength="5" Fill="Green" Center="0.0, 0.0, 2.5"/>-->
                 <helix:GridLinesVisual3D x:Name="grid" Fill="#BB7F7F7F" Center="0.0, 0.0, 0.0" Width="{Binding GridGabarit.SizeX}" Length="{Binding GridGabarit.SizeY}" MinorDistance="{Binding GridStep}" MajorDistance="{Binding GridStep}" Thickness="20.0" />
                 <helix:RectangleVisual3D Width="{Binding GridSubstrate.SizeX}" Length="{Binding GridSubstrate.SizeY}" Material="{helix:Material #20B0B0B0, SpecularIntensity=0.2}" BackMaterial="{helix:Material #30B0B0B0, SpecularIntensity=0.2}" DivLength="40" DivWidth="40"/>
             </helix:HelixViewport3D>
