@@ -1,0 +1,10 @@
+D:\SRC\c3ddebugvisualizer\Model\bin\Debug\Model.dll
+D:\SRC\c3ddebugvisualizer\Model\bin\Debug\Model.pdb
+D:\SRC\c3ddebugvisualizer\Model\bin\Debug\CLIBridge.dll
+D:\SRC\c3ddebugvisualizer\Model\bin\Debug\CLIBridge.pdb
+D:\SRC\c3ddebugvisualizer\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\SRC\c3ddebugvisualizer\Model\obj\Debug\Model.dll
+D:\SRC\c3ddebugvisualizer\Model\obj\Debug\Model.pdb
+D:\SRC\habradebugvisualizer\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\SRC\habradebugvisualizer\Model\obj\Debug\Model.dll
+D:\SRC\habradebugvisualizer\Model\obj\Debug\Model.pdb

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AutoVisualizer xmlns="http://schemas.microsoft.com/vstudio/debugger/natvis/2010">
+  <UIVisualizer ServiceId="{889EB3E4-70E5-4F4F-B13A-C61D08F2E2F5}" Id="1" MenuName="HabraLine Visualizer"/>
+  <Type Name="HabraLine">
+    <UIVisualizer ServiceId="{889EB3E4-70E5-4F4F-B13A-C61D08F2E2F5}" Id="1" />
+  </Type>
+</AutoVisualizer>

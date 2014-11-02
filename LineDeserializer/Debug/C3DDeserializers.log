@@ -1,0 +1,14 @@
+﻿Build started 02.11.2014 0:33:36.
+     1>Project "D:\SRC\habradebugvisualizer\C3DDeserializers\C3DDeserializers.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ID:\SRC\habradebugvisualizer\C3DDeserializers\HabraLineLibrary\include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _BUILDDLL /D WIN32 /D _DEBUG /D _LIB /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt -D_SCL_SECURE_NO_WARNINGS LineDeserializer.cpp
+         LineDeserializer.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\SRC\habradebugvisualizer\C3DDeserializers\Debug\HabraLineDeserializer.dll" /INCREMENTAL /NOLOGO /LIBPATH:D:\SRC\habradebugvisualizer\C3DDeserializers\HabraLineLibrary\lib HabraLine.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\SRC\habradebugvisualizer\C3DDeserializers\Debug\HabraLineDeserializer.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\SRC\habradebugvisualizer\C3DDeserializers\Debug\HabraLineDeserializer.lib" /MACHINE:X86 /DLL Debug\LineDeserializer.obj
+            Creating library D:\SRC\habradebugvisualizer\C3DDeserializers\Debug\HabraLineDeserializer.lib and object D:\SRC\habradebugvisualizer\C3DDeserializers\Debug\HabraLineDeserializer.exp
+         C3DDeserializers.vcxproj -> D:\SRC\habradebugvisualizer\C3DDeserializers\Debug\HabraLineDeserializer.dll
+     1>Done Building Project "D:\SRC\habradebugvisualizer\C3DDeserializers\C3DDeserializers.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.64

@@ -1,0 +1,14 @@
+D:\SRC\c3ddebugvisualizer\Model\bin\x86\Debug\Model.dll
+D:\SRC\c3ddebugvisualizer\Model\bin\x86\Debug\Model.pdb
+D:\SRC\c3ddebugvisualizer\Model\bin\x86\Debug\CLIBridge.dll
+D:\SRC\c3ddebugvisualizer\Model\bin\x86\Debug\CLIBridge.pdb
+D:\SRC\c3ddebugvisualizer\Model\obj\x86\Debug\Model.csprojResolveAssemblyReference.cache
+D:\SRC\c3ddebugvisualizer\Model\obj\x86\Debug\Model.dll
+D:\SRC\c3ddebugvisualizer\Model\obj\x86\Debug\Model.pdb
+D:\SRC\habradebugvisualizer\Model\bin\x86\Debug\Model.dll
+D:\SRC\habradebugvisualizer\Model\bin\x86\Debug\Model.pdb
+D:\SRC\habradebugvisualizer\Model\bin\x86\Debug\CLIBridge.dll
+D:\SRC\habradebugvisualizer\Model\bin\x86\Debug\CLIBridge.pdb
+D:\SRC\habradebugvisualizer\Model\obj\x86\Debug\Model.csprojResolveAssemblyReference.cache
+D:\SRC\habradebugvisualizer\Model\obj\x86\Debug\Model.dll
+D:\SRC\habradebugvisualizer\Model\obj\x86\Debug\Model.pdb
