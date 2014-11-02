@@ -11,8 +11,8 @@ bool LineDeserializer::Deserialize(const std::string& sharedMemoryMarker, std::v
 
     if(spNativeLine)
     {
-      CPoint3D startPoint(spNativeLine->_start._x, spNativeLine->_start._y, 0);
-      CPoint3D endPoint(spNativeLine->_end._x, spNativeLine->_end._y, 0);
+      CPoint3D startPoint(spNativeLine->_start._x, spNativeLine->_start._y, 5);
+      CPoint3D endPoint(spNativeLine->_end._x, spNativeLine->_end._y, 5);
       points.push_back(startPoint);
       points.push_back(endPoint);
 

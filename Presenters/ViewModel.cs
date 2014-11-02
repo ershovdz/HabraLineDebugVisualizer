@@ -183,10 +183,10 @@ namespace VisualizerService
             }
 
             _lineModel.Points = points;
-            _lineModel.Thickness = 5;
+            _lineModel.Thickness = 3;
             _lineModel.Color = Color.FromRgb( 255, 0, 0 );
 
-            RaisePropertyChanged("_lineModel");
+            //RaisePropertyChanged("_lineModel");
         }
 
         private void UpdateGridSize()
